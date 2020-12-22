@@ -96,7 +96,7 @@ class _SignInScreenState extends State<SignInScreen> {
                 'Sign In',
                 style: TextStyle(
                   fontSize: 24,
-                  color: Colors.white,
+                  color: Colors.blue,
                   fontWeight: FontWeight.bold,
                 ),
               ),
